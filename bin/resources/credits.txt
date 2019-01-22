@@ -1,0 +1,3 @@
+image credits:
+cards/dice: Alex Ellis - sourceforge.net/projects/cluedo/
+board: Dylan Lange
